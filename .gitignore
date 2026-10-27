@@ -1,0 +1,12 @@
+# Secret files: never upload these to GitHub
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+.env
+*.env
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
